@@ -1,0 +1,26 @@
+84.2 Fahrenheit Rankine 543.5
+-45.14 Celsius Kelvin 227.51
+317.33 Kelvin Fahrenheit 110.5
+444.5 Rankine Celsius -30.9
+6.5 Fahrenheit Rankine cat
+bird Celsius 45.32
+
+84.2 Fahrenheit Celsius 29
+-45.14 Fahrenheit Kelvin 230.2
+84.2 Fahrenheit Rankine 543.5
+317.33 Fahrenheit Fahrenheit 317
+
+444.5 Celsius Fahrenheit 832.1
+-45.14 Celsius Kelvin 227.51
+-258 Celsius Rankine 27.27
+-30.8 Celsius Celsius -30.9
+
+444.5 Kelvin Celsius 171.35
+444.5 Kelvin Fahrenheit 340.43
+444.5 Kelvin Rankine 800.1
+444.5 Kelvin Kelvin 444.5
+
+444.5 Rankine Celsius -26.20
+444.5 Rankine Fahrenheit -15.17
+444.5 Rankine Kelvin 246.94
+444.5 Rankine Rankine 444.5
